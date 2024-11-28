@@ -11,9 +11,7 @@ UnSunny is a React-based web application that helps users find the optimal side 
 - Autocomplete input for start and end points using Google Places API
 - User-friendly interface with animations
 
-## Demo
 
-Check out the live demo of UnSunny [here](https://prashanth-up.github.io/unsunny).
 
 <p align="center">
 <img src="gh_assets/2.png" width="600">
@@ -39,11 +37,7 @@ Check out the live demo of UnSunny [here](https://prashanth-up.github.io/unsunny
 
 To run this project locally, follow these steps:
 
-1. **Clone the repository**:
 
-   ```sh
-   git clone https://github.com/prashanth-up/unsunny.git
-   cd unsunny
    ```
 
 2. **Install dependencies**:
@@ -140,6 +134,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-## Contact
 
-For any questions or suggestions, please don't contact [Prashanth Umapathy](mailto:please-dont-mail-me-@nope.com).
