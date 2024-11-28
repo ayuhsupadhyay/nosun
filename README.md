@@ -1,7 +1,8 @@
 
-# UnSunny
+# nosun
 
-UnSunny is a React-based web application that helps users find the optimal side to sit on in a vehicle to get maximum shade during a route. The app uses Google Maps for route plotting and SunCalc for calculating sun position.
+
+nosun is a React-based web application that helps users find the optimal side to sit on in a vehicle to get maximum shade during a route. The app uses Google Maps for route plotting and SunCalc for calculating sun position.
 
 ## Features
 
