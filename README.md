@@ -127,12 +127,5 @@ unsunny/
 - **React Chart.js 2**: React wrapper for Chart.js
 - **GitHub Pages**: For deployment
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 
